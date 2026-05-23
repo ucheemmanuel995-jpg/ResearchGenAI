@@ -183,4 +183,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-Built with ❤️ for African researchers and students by [Your Name]
+Built with ❤️ for African researchers and students by [Opara Emmanuel]
