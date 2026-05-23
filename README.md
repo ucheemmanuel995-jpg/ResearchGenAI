@@ -1,13 +1,13 @@
-#🔬 ResearchAI — End-to-End Research & Dissertation Platform
+# 🔬 ResearchAI — End-to-End Research & Dissertation Platform
 
 > AI-powered academic research assistant that takes you from topic to 
 > full dissertation — proposal, literature review, data analysis, 
 > conclusion, abstract, and references — all in one platform.
 
-#🚀 Live Demo
+# 🚀 Live Demo
 👉 [Click here to use ResearchAI](https://researchgenai.streamlit.app/)
 
-# 📌 What is ResearchAI?
+## 📌 What is ResearchAI?
 
 ResearchAI is a free, AI-powered web application built for students, 
 researchers, project writers, and academics. It guides you through every 
@@ -20,7 +20,7 @@ real academic standards: proper chapter formatting, in-text citations
 from your actual sources, statistical analysis with interpretation, 
 and anti-plagiarism paraphrasing throughout.
 
-# ✨ Key Features
+## ✨ Key Features
 
 ### 📋 Step 1 — Research Proposal
 - Generates a formal proposal with Introduction and Methodology only
@@ -128,7 +128,8 @@ and anti-plagiarism paraphrasing throughout.
 ## 🔧 How to Run Locally
 
 ### 1. Clone the repository
-git clone https://github.com/ucheemmanuel995/researchgenai.git
+git clone https: https://github.com/ucheemmanuel995-jpg/researchgenai.git
+
 cd researchgenai
 
 ### 2. Install dependencies
@@ -181,6 +182,4 @@ Use the in-app feedback form (bottom of every page) or open a GitHub issue.
 ## 📄 License
 MIT License — free to use, modify, and distribute.
 
----
-
-Built with ❤️ for African researchers and students by [Opara Emmanuel]
+Built with ❤️ for researchers and Students by [Opara Emmanuel]
