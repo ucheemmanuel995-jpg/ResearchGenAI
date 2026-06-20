@@ -1,15 +1,15 @@
-# 🔬 ResearchAI — End-to-End Research & Dissertation Platform
+# 🔬 ResearchGenAI — End-to-End Research & Dissertation Platform
 
 > AI-powered academic research assistant that takes you from topic to 
 > full dissertation — proposal, literature review, data analysis, 
 > conclusion, abstract, and references — all in one platform.
 
 # 🚀 Live Demo
-👉 [Click here to use ResearchAI](https://researchgenai.streamlit.app/)
+👉 [Click here to use ResearchGenAI](https://researchgenai.streamlit.app/)
 
 ## 📌 What is ResearchAI?
 
-ResearchAI is a free, AI-powered web application built for students, 
+ResearchGenAI is a free, AI-powered web application built for students, 
 researchers, project writers, and academics. It guides you through every 
 stage of academic research — from writing your proposal to generating a 
 complete, formatted dissertation — using uploaded source documents as the 
@@ -112,8 +112,8 @@ and anti-plagiarism paraphrasing throughout.
 - One-click re-format option
 
 ### 📄 Step 9 — Export
-- Full dissertation preview with collapsible sections
-- Download full dissertation as .txt or .md
+- Full dissertation preview with collapsible and editable sections 
+- Download full dissertation as .txt , .md or .docx
 - Download individual chapters separately
 - Live section completion tracker
 
@@ -156,6 +156,8 @@ matplotlib>=3.8.0
 numpy>=1.26.0
 scipy>=1.12.0
 statsmodels>=0.14.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
 
 ## 🎯 Who Is This For?
 
@@ -167,7 +169,7 @@ statsmodels>=0.14.0
 
 ## ⚠️ Ethical Use
 
-ResearchAI is a writing and analysis assistance tool. Users are 
+ResearchGenAI is a writing and analysis assistance tool. Users are 
 responsible for verifying all generated content, ensuring accuracy 
 of citations, and complying with their institution's academic 
 integrity policies. The platform paraphrases uploaded content to 
